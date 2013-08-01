@@ -79,6 +79,8 @@ OpenSpending.Styles.Cofog = {
   '20131301': { icon: 'icons/island.svg', color: '#C75746', bcolor: '#D33673' },
   '20131302': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#D33673' },
   '20131303': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#D33673' },
+  '20131400': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#D33673' },
+  '20131401': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#D33673' },
 };
 
 

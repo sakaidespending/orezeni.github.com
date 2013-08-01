@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* sakaide cofog */
-  '20130100': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
+  '20130100': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#00073A' },
   '20130101': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
   '20130102': { icon: 'icons/transport.svg', color: '#C75746', bcolor: '#0AB971' },
   '20130103': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#0AB971' },

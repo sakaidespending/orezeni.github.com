@@ -57,14 +57,9 @@ OpenSpending.Styles.Cofog = {
   '20130604': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#D33673' },
   '20130605': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#D33673' },
   '20130606': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-2': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '20130700': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#D33673' },
+  '20130701': { icon: 'icons/c_syoukougyou.svg', color: '#C75746', bcolor: '#D33673' },
+  '20130702': { icon: 'icons/island.svg', color: '#C75746', bcolor: '#D33673' },
 };
 
 
